@@ -1,5 +1,7 @@
 # hddash
 
+Authors: H. Dillon and R. Holloway
+
 This project is supposed to help you learn Git, and how to use it with the code that we create.
 
 1. CREATE A BRANCH. It's similar to an SVN branch, but it's not quite the same. It's so much easier to merge changes if you create a branch, but you won't realize that till step 6.
